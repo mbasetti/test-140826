@@ -1,4 +1,5 @@
 name is madhu
 added new line 1
 Another new line!
-Conflicting line added by Carol
+line added by MB to test conflict
+Resolved the conflict
